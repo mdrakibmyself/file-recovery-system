@@ -1,7 +1,6 @@
 # Project Proposal: File Recovery System
 
 **Course:** Operating Systems
-**Institution:** Bangladesh University of Business and Technology (BUBT)
 **Project Title:** Design and Implementation of a File Recovery System
 
 ---
