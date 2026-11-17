@@ -140,10 +140,3 @@ A working File Recovery System that simulates a file system, supports file delet
 | Documentation and presentation | 11      | Week 11 to 12 |
 
 _Adjust the duration according to the course deadline._
-
-## 5. References
-
-- A. Silberschatz, P. B. Galvin, G. Gagne, _Operating System Concepts_.
-- A. S. Tanenbaum, _Modern Operating Systems_.
-- B. Carrier, _File System Forensic Analysis_.
-- TestDisk and Foremost official documentation.
